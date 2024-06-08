@@ -1,6 +1,6 @@
-<div id="header" >
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h1 align="center" >Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pratham Nemade</h1>
 
+<div id="header" >
 <div id="badges">
   <a href="https://www.linkedin.com/in/pratham-nemade-56131a207/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +15,7 @@
 <img src="https://komarev.com/ghpvc/?username=pratham1916&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div>
-  <h1 >-Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Pratham Nemade</h1>
-</div>
+
 <h3 align="justify">As a detail-oriented and responsible Full Stack Web Developer, I specialize in leveraging the MERN stack (MongoDB, Express.js, React, and Node.js) to deliver high-quality products with a commitment to timely execution. My approach is centered around a "get-it-done" ethos, ensuring that every project not only meets but exceeds expectations. My proficiency in these technologies, combined with a passion for creating seamless user experiences, enables me to contribute effectively to any team and project.</h3>
 <br>
 <h3 align="justify">Currently Studying Full Stack Web Development(MERN) from Masai School.</h3>
